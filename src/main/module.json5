@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "lunar4oh",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
