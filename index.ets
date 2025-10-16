@@ -4,7 +4,7 @@ import {Lunar} from './src/main/ets/Lunar';
 import {Foto} from './src/main/ets/Foto';
 import {Tao} from './src/main/ets/Tao';
 import {SolarUtil} from './src/main/ets/SolarUtil';
-import {IndexValue, LunarUtil} from './src/main/ets/LunarUtil';
+import {LunarUtil} from './src/main/ets/LunarUtil';
 import {FotoUtil} from './src/main/ets/FotoUtil';
 import {TaoUtil} from './src/main/ets/TaoUtil';
 import {NineStarUtil} from './src/main/ets/NineStarUtil';
@@ -41,7 +41,6 @@ export {
     Foto,
     Tao,
     SolarUtil,
-    IndexValue,
     LunarUtil,
     FotoUtil,
     TaoUtil,
